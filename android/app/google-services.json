@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941185943591",
+    "project_id": "fcmpoc-2b2bc",
+    "storage_bucket": "fcmpoc-2b2bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941185943591:android:8b8ceebbf45672e8ace602",
+        "android_client_info": {
+          "package_name": "com.fcmpoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941185943591-5lipddum90rbbg4mua0ho69qkl6rm0kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0GAERkbREyrdbpmbZSCsLkGHizVjp-h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941185943591-5lipddum90rbbg4mua0ho69qkl6rm0kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
